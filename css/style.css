@@ -1035,4 +1035,16 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+
+.logo-container {
+  background-color: #1a1a1a; /* any color you like */
+  padding: 20px;
+  display: inline-block;
+  border-radius: 12px;
+}
+.logo {
+  width: 150px;
+  height: auto;
+  display: block;
+}
 /*# sourceMappingURL=style.css.map */
